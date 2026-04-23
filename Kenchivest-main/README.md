@@ -12,7 +12,7 @@ A premium fintech investment platform built with React, TypeScript, Tailwind CSS
 - ✅ **User Authentication** - Email/Phone signup with Google & Apple OAuth
 - ✅ **BTC Payment System** - Users pay via Bitcoin to activate accounts
 - ✅ **Admin Approval Dashboard** - Review and approve payments in real-time
-- ✅ **Portfolio Management** - $10,000 starting balance for all users
+- ✅ **Portfolio Management** - $10 starting balance for all users
 - ✅ **Stock & Crypto Trading** - Buy/sell BTC, ETH, SOL, AAPL, TSLA, GOOGL, MSFT, NVDA
 - ✅ **Transaction History** - Complete audit trail of all trades
 - ✅ **Send/Withdraw Crypto** - Transfer to external BTC wallets
